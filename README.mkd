@@ -20,4 +20,4 @@ This personal project is a small application with virtual pet that can currently
 - improve sprite quality; more sprites and animations
 - improve README since I don't really know what to add here and should take some other github projects as reference lol
 
-shameless plug, you can follow me on twitter. Will probably post about the project once it is in a presentable state, and ideally with replacemenent of the vibe-code with something more stable and not buggy
+Shameless plug, you can follow me on [twitter](https://twitter.com/_Methyllithium_). Will probably post about the project once it is in a presentable state, and ideally with replacemenent of the vibe-code with something more stable and not buggy
