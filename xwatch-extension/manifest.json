@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "X.com Watcher",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["http://127.0.0.1:8765/"]
+}

@@ -1,0 +1,12 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Id": "zaimu_bridge",
+    "Name": "Zaimu Bridge",
+    "Description": "Sends window events to Zaimu assistant",
+    "Version": "1.0",
+    "License": "MIT"
+  },
+  "X-Plasma-API": "javascript",
+  "X-KWin-Exclude-Listing": true
+}
