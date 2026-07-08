@@ -1,6 +1,8 @@
 ## Ribozaimu - your digital all-purpose assistant!
 
-This personal project is a small application with virtual pet that can currently track some of your activites and offers comments or remarks. All art done by me, code vibe-coded with ChatGPT - would not recommend, total mess and might have rewrite myself at some point. Also, plenty of redundant files that need to be removed.
+![image](/assets/icon.png)
+
+This project is a small application - basically a virtual pet that can currently track some of your activites and offers comments or remarks. All art done by me, code vibe-coded with ChatGPT - would not recommend, total mess and might have rewrite myself at some point. Also, plenty of redundant files that need to be removed.
 
 You can run the application by simply running the run.sh script with executive permissions.
 !!! May not work on Windows or Mac
@@ -14,6 +16,7 @@ You can run the application by simply running the run.sh script with executive p
 
 ### Future planned features
 - fixed up spaghetti code
+- have it stand in front of other windows at all times
 - ensure multi-OS compatiblity and have it able to run as is without bugs or needing to adjust system settings
 - proper greeting and shutdown linked with PC startup/shutdown
 - easily adjustable triggers and replies
@@ -24,5 +27,10 @@ You can run the application by simply running the run.sh script with executive p
 - More advanced/complete voice, potentially hiring a voice actor
 - improve sprite quality; more sprites and animations
 - improve README since I don't really know what to add here and should take some other github projects as reference lol
+
+## Example screenshots from the application:
+![image](/assets/example_screenshot1.png)
+
+![image](/assets/example_screenshot2.png)
 
 Shameless plug, you can follow me on [twitter](https://twitter.com/_Methyllithium_). Will probably post about the project once it is in a presentable state, and ideally with replacemenent of the vibe-code with something more stable and not buggy
