@@ -1,0 +1,23 @@
+## Ribozaimu - your digital all-purpose assistant!
+
+This personal project is a small application with virtual pet that can currently track some of your activites and offers comments or remarks. All art done by me, code vibe-coded with ChatGPT - would not recommend, total mess and might have rewrite myself at some point. Also, plenty of redundant files that need to be removed.
+
+### Current features
+- speech upon startup
+- close by double-clicking
+- comments upon interaction with certain programs/windows such as Discord or Steam
+- browser extension that can be installed to track activity on Twitter and YouTube
+
+### Future planned features
+- fixed up spaghetti code
+- proper greeting and shutdown linked with PC startup/shutdown
+- easily adjustable triggers and replies
+- multiple personalities, including Mesogaki, Maid, Imouto, Bishounen
+- menu and UI with adjustable options, including volume, personality, mode (study, gaming, art, leisure etc.)
+- Sync with system notification and using them to trigger custom replies
+- More advanced browser extention capable of reading or even extracting text and using it as context and material for replies
+- More advanced/complete voice, potentially hiring a voice actor
+- improve sprite quality; more sprites and animations
+- improve README since I don't really know what to add here and should take some other github projects as reference lol
+
+shameless plug, you can follow me on twitter. Will probably post about the project once it is in a presentable state, and ideally with replacemenent of the vibe-code with something more stable and not buggy
