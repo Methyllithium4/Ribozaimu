@@ -322,9 +322,9 @@ class AssistantWindow(QWidget):
         elif category =="krita":
             self.set_speech("Drawing? Nice nice, I hope you're drawing me!")
     
-        ##elif category == "unknown":
-        ##    self.play_sound("baka-mitsuba.mp3")
-        ##    self.set_speech("Procrastinating again? What a loser!")
+        elif category == "unknown":
+            self.play_sound("baka-mitsuba.mp3")
+            self.set_speech("Procrastinating again? What a loser!")
             
     def set_speech(self, text: str):
         self.full_text = text
