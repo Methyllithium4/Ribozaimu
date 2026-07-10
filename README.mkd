@@ -1,6 +1,6 @@
 ## Ribozaimu - your digital all-purpose assistant!
 
-![image](/assets/icon.png)
+![image](/Ribozaimu-chan_banner.png)
 
 This project is a small application - basically a virtual pet that can currently track some of your activites and offers comments or remarks. All art done by me, code vibe-coded with ChatGPT - would not recommend, total mess and might have rewrite myself at some point. Also, plenty of redundant files that need to be removed.
 
